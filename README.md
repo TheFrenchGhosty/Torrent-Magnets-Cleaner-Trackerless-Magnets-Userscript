@@ -26,4 +26,4 @@ Licence : GPLv3
 Licence : Public Domain
 
 
-#### The reason I created this userscript using https://addons.mozilla.org/en-US/firefox/addon/trackerless-magnets/ is that the addons didn't work when I moved to Icecat.
+#### The reason I created this userscript using is that the addon didn't work when I moved to Icecat.
