@@ -1,7 +1,5 @@
 # Torrent Magnet Cleaner - Userscript
 
-## Installation : https://gitlab.com/TheFrenchGhosty/torrent-magnet-cleaner-userscript/raw/master/torrent-magnet-cleaner.user.js
-
 Rewrites all Torrent Magnet links so that they only contain the BitTorrent info hashes (BTIH).
 
 IE: Change 
@@ -14,6 +12,17 @@ to
 
 (but for whatever reason it doesn't work on archlinux.org, and since I don't write JS I can't fix it)
 
+## Usage : 
+
+* Install [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
+
+(Do not use TamperMonkey (closed source) or GreaseMonkey (not maintained))
+
+* Open : https://gitlab.com/TheFrenchGhosty/torrent-magnet-cleaner-userscript/raw/master/torrent-magnet-cleaner.user.js
+
+* Click "Confirm Installation" at the top left of the screen.
+
+* Profit !
 
 ## Difference between both scripts :
 
