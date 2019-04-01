@@ -1,6 +1,6 @@
 # Torrent Magnet Cleaner - Userscript
 
-# Install : https://gitlab.com/TheFrenchGhosty/torrent-magnet-cleaner-userscript/raw/master/torrent-magnet-cleaner.user.js
+## Installation : https://gitlab.com/TheFrenchGhosty/torrent-magnet-cleaner-userscript/raw/master/torrent-magnet-cleaner.user.js
 
 Rewrites all Torrent Magnet links so that they only contain the BitTorrent info hashes (BTIH).
 
