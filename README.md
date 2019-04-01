@@ -37,4 +37,4 @@ Licence : Public Domain
 
 #### The reason I created this userscript using is that the addon didn't work when I moved to Icecat.
 
-## Note : I don't have any plan to host it on [Greasyfork](https://greasyfork.org/)
+## Note : I don't have any plan to host it on [Greasyfork](https://greasyfork.org/).
