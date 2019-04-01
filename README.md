@@ -20,7 +20,7 @@ to
 
 * Open : https://gitlab.com/TheFrenchGhosty/torrent-magnet-cleaner-userscript/raw/master/torrent-magnet-cleaner.user.js
 
-* Click "Confirm Installation" at the top left of the screen.
+* Click "Confirm Installation" at the top right of the screen.
 
 * Profit !
 
