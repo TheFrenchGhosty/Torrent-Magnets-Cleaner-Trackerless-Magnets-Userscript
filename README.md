@@ -35,6 +35,6 @@ Licence : GPLv3
 Licence : Public Domain
 
 
-#### The reason I created this userscript using is that the addon didn't work when I moved to Icecat.
+#### The reason I created this userscript is that the addon didn't work when I moved to Icecat.
 
 ## Note : I don't have any plan to host it on [Greasyfork](https://greasyfork.org/).
