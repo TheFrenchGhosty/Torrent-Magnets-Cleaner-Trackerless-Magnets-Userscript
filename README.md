@@ -16,7 +16,7 @@ to
 
 * Install [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 
-(Do not use TamperMonkey (closed source) or GreaseMonkey (not maintained))
+(Do not use TamperMonkey ([closed source](https://tampermonkey.net/privacy.php?ext=dhdg#extension)) or GreaseMonkey (not maintained))
 
 * Open : https://gitlab.com/TheFrenchGhosty/torrent-magnet-cleaner-userscript/raw/master/torrent-magnet-cleaner.user.js
 
