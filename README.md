@@ -31,6 +31,7 @@ to :
 ## Licence : 
 
 The original browser add-on is using GPLv3, and since GPLv3 require the use of the same license, this project had to be GPLv3.
+
 I would like to release it in the public domain but I can't, sorry.
 
 
