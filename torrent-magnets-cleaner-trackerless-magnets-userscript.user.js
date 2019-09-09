@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name Torrent Magnet Cleaner - Userscript
 // @author TheFrenchGhosty
-// @source 
+// @source https://gitlab.com/TheFrenchGhosty/torrent-magnets-cleaner-trackerless-magnets-userscript
 // ==/UserScript==
 
 var magnetlinks = document.querySelectorAll("a[href^='magnet:']");

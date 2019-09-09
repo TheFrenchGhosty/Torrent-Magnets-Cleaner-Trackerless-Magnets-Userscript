@@ -18,7 +18,7 @@ to :
 
 (Do not use TamperMonkey ([closed source](https://tampermonkey.net/privacy.php#extension)) or GreaseMonkey (Not recommended since there was [no update from August 2018 to May 2019](https://addons.mozilla.org/firefox/addon/greasemonkey/versions/) and it might happen again.)
 
-* Open : 
+* Open : https://gitlab.com/TheFrenchGhosty/torrent-magnets-cleaner-trackerless-magnets-userscript/raw/master/torrent-magnets-cleaner-trackerless-magnets-userscript.user.js
 
 * Click "Confirm Installation" at the top right of the screen.
 
